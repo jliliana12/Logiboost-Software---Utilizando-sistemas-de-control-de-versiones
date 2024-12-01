@@ -24,5 +24,5 @@ Cómo Usar el Proyecto
 Clona el repositorio con el siguiente comando:
 git clone https://github.com/jliliana12/Logiboost-Software---Utilizando-sistemas-de-control-de-versiones.git
 Abre el archivo index.html en tu navegador para visualizar la página.
-Alternativamente, el proyecto está disponible en GitHub Pages. Puedes verlo en línea aquí: https://alebe16.github.io/logiboost-inventario/
+Alternativamente, el proyecto está disponible en GitHub Pages. Puedes verlo en línea aquí: https://jliliana12.github.io/Logiboost-Software---Utilizando-sistemas-de-control-de-versiones/
 
